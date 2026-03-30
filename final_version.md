@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Wilson Liu, and I am a graduate student with a strong interest in the intersection of technology and financial services. I enjoy exploring how emerging tools can reshape the way we analyze data, manage risk, and deliver financial products to consumers and businesses.
+My name is Wilson Liu, and I am a graduate student in JHU Carey with a strong interest in the intersection of technology and financial services. I enjoy exploring how emerging tools can reshape the way we analyze data, manage risk, and deliver financial products to consumers and businesses.
 
 ## An Area I Care About
 
@@ -12,7 +12,7 @@ The fintech industry is transforming how people interact with money — from pay
 
 - **Automated financial analysis and reporting:** Generative AI can synthesize large volumes of earnings reports, SEC filings, and market data into concise summaries, helping analysts focus on judgment calls rather than data gathering.
 - **Personalized client communication:** AI can draft tailored investment updates, risk disclosures, and onboarding materials, making financial advice more accessible and scalable.
-- **Fraud detection and compliance support:** Generative models can assist compliance teams by flagging unusual patterns in transaction data and drafting preliminary audit narratives, reducing the manual burden of regulatory work.
+- **Fraud detection and compliance support:** Generative models can assist compliance teams by flagging unusual patterns in transaction data and drafting preliminary audit narratives, reducing the manual burden of repeated and regulatory work.
 
 ---
 
@@ -26,3 +26,5 @@ The assistant produced a clear structure quickly and identified relevant, specif
 
 **What needed clarification or adjustment:**
 The introduction is fairly generic since I did not provide personal details like my name, program, or university. The paragraph about fintech could be sharpened with a more specific sub-area or personal experience to make it feel less like a general overview.
+
+I add a little more about my own background in About me. Then edit the ways Generative AI could help to make it a bit more specific.
