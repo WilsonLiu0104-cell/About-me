@@ -21,4 +21,4 @@ This repository contains my work for Homework 1, where I used a coding assistant
 
 ## Video Walkthrough
 
-*(link to unlisted YouTube video here)*
+*[(link to unlisted YouTube video here)](https://youtu.be/RXV285abwbE)*
